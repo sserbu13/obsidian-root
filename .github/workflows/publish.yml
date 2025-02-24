@@ -32,11 +32,11 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
-      - name: Deploy Vercel
-        uses: amondnet/vercel-action@v20
-        with:
+      #- name: Deploy Vercel
+      #  uses: amondnet/vercel-action@v20
+      #  with:
           # TODO: Update Github Secrets with values
-          vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }} # Required
-          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
-          vercel-args: "--prod" #Optional
+      #    vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+      #    vercel-org-id: ${{ secrets.VERCEL_ORG_ID }} # Required
+      #    vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
+      #    vercel-args: "--prod" #Optional
