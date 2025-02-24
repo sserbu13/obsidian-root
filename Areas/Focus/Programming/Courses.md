@@ -1,6 +1,6 @@
 
 #courses #learning 
-[[Focus/Programming/1.Main]]
+[[1.Main]]
 
 
 > [!important]  
