@@ -1,6 +1,6 @@
 
 #courses #learning 
-[[Actions/Learning/Programming/Main]]
+[[Areas/Focus/Programming/Main]]
 
 
 > [!important]  

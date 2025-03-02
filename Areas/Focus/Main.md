@@ -1,6 +1,6 @@
 | Name                  | Created                  | Date | Tags |
 | --------------------- | ------------------------ | ---- | ---- |
-| [[Actions/Learning/Programming/Main]]            | January 20, 2024 6:32 PM |      |      |
+| [[Areas/Focus/Programming/Main]]            | January 20, 2024 6:32 PM |      |      |
 | [[Quality Assurance]] |                          |      |      |
 | [[Data science]]      |                          |      |      |
 |                       |                          |      |      |
