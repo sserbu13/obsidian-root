@@ -1,3 +1,4 @@
+#ferment
 Details
 [[Making Kefir]]
 1 day outside
