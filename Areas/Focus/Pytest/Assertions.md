@@ -1,6 +1,5 @@
 ---
 tags:
-  - pytest
   - testClass
   - assert
   - type
