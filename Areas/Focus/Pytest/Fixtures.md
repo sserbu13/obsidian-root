@@ -6,3 +6,19 @@ host: docs.pytest.org
 ```
 
 #fixtures
+
+Fixtures are useful for building pre-requisites before tests and doing clean-up after tests are ran.
+
+These are saved in conftest.py
+
+We call the fixture by calling the fixture function inside the test function argument 
+```js
+def test_function(fixture_name):
+```
+
+OR 
+
+We can set the fixture function argument as 
+```js
+autouse=Tru
+```
