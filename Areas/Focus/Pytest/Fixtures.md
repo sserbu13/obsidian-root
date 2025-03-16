@@ -17,8 +17,8 @@ def test_function(fixture_name):
 ```
 
 OR 
-
-We can set the fixture function argument as 
+ 
+We can set the fixture argument as follows for tests to always use the fixture : 
 ```js
-autouse=Tru
+@pytest.fixture(autouse=True)
 ```
