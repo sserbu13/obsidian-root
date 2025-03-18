@@ -7,3 +7,4 @@ host: thefitness.wiki
 favicon: https://s0.wp.com/i/webclip.png
 image: https://s0.wp.com/i/blank.jpg
 ```
+![[Pasted image 20250318205133.png]]
