@@ -30,19 +30,49 @@ host: docs.pytest.org
 	• Its not mandatory but we can return something from fixture using return statement.
 
 **Fixtures:**
-• Also another way of calling fixture:
-• @pytest.mark.usefixtures("fixture_name")
-• In this case, return from fixture cannot be used. So only use it to execute some code within fixture.
+	• Also another way of calling fixture:
+	• @pytest.mark.usefixtures("fixture_name")
+	• In this case, return from fixture cannot be used. So only use it to execute some code within fixture.
 
 **Setup/Tear down and using multiple fixture:**
-• "yield": By using a yield statement instead of "return", all the code after the yield statement serves as the teardown code and are run.
-• We can have code to shutdown connections, etc after the "yield" stmt.
-• We can use/pass multiple fixture in same test function.
+	• "yield": By using a yield statement instead of "return", all the code after the yield statement serves as the teardown code and are run.
+	• We can have code to shutdown connections, etc after the "yield" stmt.
+	• We can use/pass multiple fixture in same test function.
 
 **Sharing Fixtures**:
-• Use conftest.py - put the fixtures to share across multiple test files.
-• We can have more conftest.py files in subdirectories of the top tests directory. If we do, fixtures defined in these lower-level conftest.py
-files will be available to tests in that directory and subdirectories.
-• Don’t import conftest from anywhere. The conftest.py file gets read by pytest, and is considered a local plugin.
-• Function- pytest_configure, vars within this are available within all test functions in that module.
+	• Use conftest.py - put the fixtures to share across multiple test files.
+	• We can have more conftest.py files in subdirectories of the top tests directory. If we do, fixtures defined in these lower-level conftest.py
+	files will be available to tests in that directory and subdirectories.
+	• Don’t import conftest from anywhere. The conftest.py file gets read by pytest, and is considered a local plugin.
+	• Function- pytest_configure, vars within this are available within all test functions in that module.
 
+**Tracing Fixtures:**
+	• Use this option in pytest --setup-show, to trace fixture execution.
+
+**Introspecting The calling Test Function:**
+	• Use special fixture "request“.
+	• The "request" in the fixture parameter is another builtin fixture that represents the calling state of the fixture.
+	• Useful in looking into the calling test function and make decision based on that.
+
+**Factories as Fixtures**:
+	• The “factory as fixture” pattern can help in situations where the result of a fixture is needed multiple times in a single test.
+	• Instead of returning data directly, the fixture instead returns a function which generates the data. This function can then be called multiple
+	times in the test.
+	• We return the function_name without the parenthesis. A reference to the function is sent to the calling code.
+
+**Parametrizing using Fixtures:**
+	• Fixture functions can be parametrized in which case they will be called multiple times, each time executing the set of dependent tests, i. e.
+	the tests that depend on this fixture.
+	• We can do Data driven tests from Fixtures.
+	• Pass params to fixture decorator.
+	• We use the same special fixture "request" to access the params from fixture and return.
+	• It is possible to customize the string used in a output testID for a certain fixture value by using the ids keyword argument:
+	• You can use multiple fixtures also. In this case, the number of tests will be combination of each params fo the fixtures.
+
+**Fixture Scope**:
+	• Fixtures also have scope and lifetime.
+	• The default scope of a pytest fixture is function scope.
+	• function: Runs once per test, the default value of the fixture scope. Fixture is destroyed at the end of the test.
+	• class: Runs once per class of tests
+	• module: Runs once per module
+	• session: Runs once per session
