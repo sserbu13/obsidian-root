@@ -15,8 +15,9 @@ Notes:
 
 **Combinatie_1**
 - Ltn -> Bucurest : Thessaloniki ->Viena -> Stn
-- pret: £ 223/pers
-- 
+- pret avion: £ 232/pers
+- pret tren: £ 25
 
-![[Pasted image 20250326130017.png]]
-![[Pasted image 20250326130034.png]]
+![[Pasted image 20250326130936.png]]
+
+![[Pasted image 20250326130815.png]]
