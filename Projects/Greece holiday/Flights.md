@@ -18,6 +18,5 @@ Notes:
 - pret avion: £ 232/pers
 - pret tren: £ 25
 
-![[Pasted image 20250326130936.png]]
-
+![[Pasted image 20250326131416.png]]
 ![[Pasted image 20250326130815.png]]
