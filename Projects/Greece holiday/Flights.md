@@ -10,3 +10,10 @@ Notes:
 **Option 3**
 ![[Pasted image 20250326115610.png]]  
 - trebuie sa fim la aeroport la 3:00am
+
+
+
+Combinatie
+
+![[Pasted image 20250326130017.png]]
+![[Pasted image 20250326130034.png]]
