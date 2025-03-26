@@ -16,3 +16,12 @@ host: www.youtube.com
 favicon: https://www.youtube.com/s/desktop/09f6784d/img/logos/favicon_32x32.png
 image: https://i.ytimg.com/vi/1tDm8Zzfwho/maxresdefault.jpg
 ```
+
+```cardlink
+url: https://www.youtube.com/watch?v=cClSiXBNGa8&pp=ygUYYmVzdCBzdXBlcnNldHMgZnVsbCBib2R5
+title: "30 Minute Full Body Dumbbell Workout With (the real) Doctor Mike"
+description: "@DoctorMike is a super busy YouTuber and still an actual doctor!  We show him how to do an amazing muscle growth workout if you don't have much time! Don't m..."
+host: www.youtube.com
+favicon: https://www.youtube.com/s/desktop/716a93d8/img/logos/favicon_32x32.png
+image: https://i.ytimg.com/vi/cClSiXBNGa8/maxresdefault.jpg
+```
