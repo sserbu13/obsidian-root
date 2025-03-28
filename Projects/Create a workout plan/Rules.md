@@ -2,6 +2,7 @@ Sets:
 Aim at between 3 - 12 sets per muscle per session
 Last set needs to be to failure
 Aim between 30s - 3m of rest between sets
+straight sets, rest pause sets, myoreps sets
 
 Reps:
 Between 4 -12 reps
