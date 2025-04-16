@@ -9,8 +9,9 @@ Becrypt
 Tested: Operational System, Web app, iOS app, Android app, network traffic manager, Bios Encryption software
 Achievements::
 - Implemented and presented jira workflows that were widely adopted by the engineering team 
-- Took ownership over 2 critical projects as the sole QA, liaising with clients regularly to ensure expectations and targets are met. Both projects were delivered in the agreed upon timeframe and budget with the clients being very impressed with our work
-- Training Junior QAs and helping them 
+- Took ownership over 2 critical projects as the sole QA, 
+- . Both projects were delivered in the agreed upon timeframe and budget with the clients being very impressed with our work
+- Liaising with key clients regularly to make presentations to showcase our 
 
 Bango 
 Tested: Payments & Identification services, Assets management system,
