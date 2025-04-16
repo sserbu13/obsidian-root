@@ -3,9 +3,9 @@ Tested: Web app ui, gaming console app, desktop app, chat system, game integrati
 
 
 Becrypt
-Tested: Operational System for desktop, Mobile  
+Tested: Operational Systems for pc and mobile, Bios Encryption software, Network gateway
 
 
 Bango 
-
+Tested: Payments & Identification services, 
 
