@@ -4,11 +4,12 @@ Achievements:
 - Managing the QA work for 3-4 projects at a time in a startup environment with aggressive deadlines and high pressure. 
 - With a team of only 2 QAs in the company, we managed expectations from various stakeholders, maintained a quality standard early in the development cycle way before work got to QA
 - Assessed risks and prioritized the work accordingly.
-- Helped maintain and monitor the platform during events of high  ( competitive gaming tournaments ) 
+- Helped maintain and monitor the platform during events of high importance ( competitive gaming tournaments ) 
 
 Becrypt
-Tested: Operational Systems for pc and mobile, Bios Encryption software, Network gateway
-
+Tested: Operational System, Web app, iOS app, Android app, network traffic manager, Bios Encryption software
+Achievements::
+- Implemented jira workflows that we presented 
 
 Bango 
 Tested: Payments & Identification services, Assets management system,
