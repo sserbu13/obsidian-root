@@ -1,6 +1,7 @@
 Faceit
 Tested: Web app ui, gaming console app, desktop app, chat system, game integrations, large competitive tournaments, ranking system, anti-cheat engine, social network, admin dashboard 
-Achievements
+Achievements:
+- Managing the QA work for 3-4 projects at a time in a startup environment with aggressive deadlines and high pressure. With a team of only 2 QAs in the company, we had to manage expectations from various stakeholders, maintain a quality standard early in the development process way before work got to QA and assess risk  
 
 Becrypt
 Tested: Operational Systems for pc and mobile, Bios Encryption software, Network gateway
