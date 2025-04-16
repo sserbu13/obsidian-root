@@ -7,5 +7,5 @@ Tested: Operational Systems for pc and mobile, Bios Encryption software, Network
 
 
 Bango 
-Tested: Payments & Identification services, 
+Tested: Payments & Identification services, Assets management system,
 
