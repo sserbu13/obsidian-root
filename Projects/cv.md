@@ -3,14 +3,14 @@ Tested: Web app ui, gaming console app, desktop app, chat system, game integrati
 Achievements:
 - Managing the QA work for 3-4 projects at a time in a startup environment with aggressive deadlines and high pressure. 
 - With a team of only 2 QAs in the company, we managed expectations from various stakeholders, maintained a quality standard early in the development cycle way before work got to QA
-- Assessed risks and prioritized the work accordingly.
 - Helped maintain and monitor the platform during events of high importance ( competitive gaming tournaments ) 
 
 Becrypt
 Tested: Operational System, Web app, iOS app, Android app, network traffic manager, Bios Encryption software
 Achievements::
 - Implemented and presented jira workflows that were widely adopted by the engineering team 
-- Took ownership over 2 projects as the sole QA, liaising with clients regularly to ensure expectations and targets are met. Both projects were delivered in the agreed upon timeframe with the clients being very happy with our  
+- Took ownership over 2 critical projects as the sole QA, liaising with clients regularly to ensure expectations and targets are met. Both projects were delivered in the agreed upon timeframe and budget with the clients being very impressed with our work
+- Training Junior QAs and helping them 
 
 Bango 
 Tested: Payments & Identification services, Assets management system,
