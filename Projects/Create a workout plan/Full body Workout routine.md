@@ -17,12 +17,15 @@ Compound Exercises
 - Overhead press    
 - Barbell row
 
-| **Superset** A    | Reps      | Sets | Time |
-| ----------------- | --------- | ---- | ---- |
-| Curls             | high reps |      |      |
-| Romanian Deadlift | low reps  |      |      |
-| Overhead Press    | low reps  |      |      |
-| Back extensions   | high reps |      |      |
+**Supersets**
+can be done in 30m
+
+| **Superset** A    | Reps      | Sets |
+| ----------------- | --------- | ---- |
+| Curls             | high reps |      |
+| Romanian Deadlift | low reps  |      |
+| Overhead Press    | low reps  |      |
+| Back extensions   | high reps |      |
 
 | **Superset** B |     |
 | -------------- | --- |
