@@ -9,3 +9,10 @@ Squats
 Incline Bench
 Lats flies
 
+
+| Superset          |     |
+| ----------------- | --- |
+| Curls             |     |
+| Romanian Deadlift |     |
+| Overhead Press    |     |
+| Back extensions   |     |
