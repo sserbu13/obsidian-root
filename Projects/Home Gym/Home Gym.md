@@ -1,3 +1,6 @@
+---
+sticker: lucide//dumbbell
+---
 
 ```cardlink
 url: https://mirafit.co.uk/mirafit-m100-power-rack-with-cable-system.html
