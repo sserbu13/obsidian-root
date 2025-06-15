@@ -1,3 +1,6 @@
+---
+sticker: lucide//briefcase
+---
 
 ```cardlink
 url: https://www.gov.uk/limited-company-formation/register-your-company
