@@ -17,3 +17,12 @@ title: "Best Adjustable Dumbbells Review – WiseInsights"
 host: wiseinsights.co
 favicon: https://wiseinsights.co/wp-content/uploads/2023/11/new-favicon-150x150.png
 ```
+
+
+just one dumbell I think
+```cardlink
+url: https://www.amazon.co.uk/Eisenlink-Adjustable-Square-Dumbbell-Piece36kg/dp/B0BZHHCSFD/ref=asc_df_B0BZHHCSFD?mcid=cabb3742c828377fbfe25fa9e727e38d&hvadid=697225049676&hvpos=&hvnetw=g&hvrand=4720648006362906938&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006699&hvtargid=pla-2196309786418&hvocijid=4720648006362906938-B0BZHHCSFD-&hvexpln=0
+title: "Eisenlink Adjustable Dumbbell 4-36kg Weight Set - Adjustable Weights with Anti-slip Handle 2kg Increments Innovative Easy Safe Locking Mechanism for Fitness Training Home Gym (1×36kg) : Amazon.co.uk: Sports & Outdoors"
+description: "Shop Eisenlink Adjustable Dumbbell 4-36kg Weight Set - Adjustable Weights with Anti-slip Handle 2kg Increments Innovative Easy Safe Locking Mechanism for Fitness Training Home Gym (1×36kg). Free delivery and returns on all eligible orders."
+host: www.amazon.co.uk
+```
