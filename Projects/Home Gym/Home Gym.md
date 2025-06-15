@@ -18,6 +18,14 @@ host: wiseinsights.co
 favicon: https://wiseinsights.co/wp-content/uploads/2023/11/new-favicon-150x150.png
 ```
 
+```cardlink
+url: https://www.aliexpress.com/item/1005008785350127.html?spm=a2g0o.productlist.main.58.6acfsOsvsOsvCH&algo_pvid=8481689c-deb9-4c9d-9b4e-44eeba45a86a&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A
+title: "New Adjustable Dumbbell Set, 10-80lb, 5lb Increments, Quick-Lock Square Weight Dumbbells for Home Gym Fitness (80lb) - AliExpress 18"
+description: "Smarter Shopping, Better Living! Aliexpress.com"
+host: www.aliexpress.com
+image: https://ae01.alicdn.com/kf/S1772d8636c074e9787f2c30de54f0334x.jpg
+```
+
 
 just one dumbell I think
 ```cardlink
