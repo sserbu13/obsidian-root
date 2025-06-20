@@ -34,3 +34,9 @@ title: "Eisenlink Adjustable Dumbbell 4-36kg Weight Set - Adjustable Weights wit
 description: "Shop Eisenlink Adjustable Dumbbell 4-36kg Weight Set - Adjustable Weights with Anti-slip Handle 2kg Increments Innovative Easy Safe Locking Mechanism for Fitness Training Home Gym (1×36kg). Free delivery and returns on all eligible orders."
 host: www.amazon.co.uk
 ```
+
+Mirrors
+https://www.ikea.com/gb/en/p/laerbro-mirror-80471020/
+
+York Barbell Olympic Solid Rubber Black 100KG Bumper Plates
+https://yorkfitness.com/products/100kgbumber?variant=47773439394038
