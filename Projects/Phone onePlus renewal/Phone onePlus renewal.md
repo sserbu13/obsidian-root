@@ -1,3 +1,0 @@
----
-sticker: lucide//smartphone
----
