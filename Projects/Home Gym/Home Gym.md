@@ -26,6 +26,7 @@ host: www.aliexpress.com
 image: https://ae01.alicdn.com/kf/S1772d8636c074e9787f2c30de54f0334x.jpg
 ```
 
+https://muscleiq.co.uk/products/40kg-adjustable-dumbbell-pair-4kg-increments?variant=49911861772624&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=22194085136&gbraid=0AAAAA-sdzQI7MadtfKESeLWG1pvIjN28g&gclid=CjwKCAjwyb3DBhBlEiwAqZLe5KHaGNqfnIsq20fMp0Pnsa9MBV4Gsno60dNxxAP5HQY31Y04aBaDkBoCZ58QAvD_BwE
 
 just one dumbell I think
 ```cardlink
