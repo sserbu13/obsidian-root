@@ -3,7 +3,7 @@ Strategy
 
 Wisdom
 
-Engi
+Engineer
 
 Marketer
 
