@@ -1,0 +1,4 @@
+- https://nutricircle.co.uk/collections/latest-special-offers
+- https://gymstop.co.uk/products
+- https://www.joybuy.co.uk/
+- https://discountdragon.co.uk/
