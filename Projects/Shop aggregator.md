@@ -12,4 +12,8 @@ Why search individually when you can search on all of them and get alerts when s
 Create shopping profiles to match your preference:
 - you like quality clothes at affordable prices but you don't mind waiting
 - share pinterest board to match your style and notify you when similar clothes are available 
-- 
+
+
+Features:
+- negative filters (select what you don't want to search for eg. "I don't want Zara products")
+- automatic queries for products that don't have the size listed eg. sending a 
