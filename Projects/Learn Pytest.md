@@ -15,3 +15,9 @@ description: "Learn to write simple but effective tests with Pytest.  From basic
 host: pytest-with-eric.com
 favicon: https://pytest-with-eric.com/images/website-favicon.png
 ```
+
+```cardlink
+url: https://pytest-bdd.readthedocs.io/en/latest/
+title: "Pytest-BDD: the BDD framework for pytest — pytest-bdd 8.1.0 documentation"
+host: pytest-bdd.readthedocs.io
+```
