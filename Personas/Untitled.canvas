@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"29e458ce2dc192d3","x":-125,"y":-30,"width":85,"height":60,"type":"text","text":"   **Core**"},
+		{"id":"d95d5fbdde064165","x":43,"y":-30,"width":100,"height":60,"type":"text","text":"Fighter"},
+		{"id":"3e9a3b166badc6a5","x":-327,"y":-27,"width":120,"height":55,"type":"text","text":"Engineer"},
+		{"id":"697c99fee149f764","x":-136,"y":100,"width":107,"height":50,"type":"text","text":"Artist"}
+	],
+	"edges":[
+		{"id":"1dfd101bf3d80078","fromNode":"29e458ce2dc192d3","fromSide":"right","toNode":"d95d5fbdde064165","toSide":"left"},
+		{"id":"8db25acb4beb954d","fromNode":"29e458ce2dc192d3","fromSide":"bottom","toNode":"697c99fee149f764","toSide":"top"},
+		{"id":"237d36dc74a4bdc8","fromNode":"29e458ce2dc192d3","fromSide":"left","toNode":"3e9a3b166badc6a5","toSide":"right"}
+	]
+}
