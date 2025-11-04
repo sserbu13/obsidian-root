@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"29e458ce2dc192d3","x":-125,"y":-30,"width":85,"height":60,"type":"text","text":"   **Core**"},
-		{"id":"d95d5fbdde064165","x":43,"y":-30,"width":100,"height":60,"type":"text","text":"Fighter"},
-		{"id":"3e9a3b166badc6a5","x":-327,"y":-27,"width":120,"height":55,"type":"text","text":"Engineer"},
-		{"id":"697c99fee149f764","x":-136,"y":100,"width":107,"height":50,"type":"text","text":"Artist"}
+		{"id":"d95d5fbdde064165","type":"text","text":"Fighter","x":43,"y":-30,"width":100,"height":60},
+		{"id":"3e9a3b166badc6a5","type":"text","text":"Engineer","x":-327,"y":-27,"width":120,"height":55},
+		{"id":"697c99fee149f764","type":"text","text":"Artist","x":-136,"y":100,"width":107,"height":50},
+		{"id":"29e458ce2dc192d3","type":"text","text":"   **Core**","x":-125,"y":-30,"width":85,"height":60}
 	],
 	"edges":[
 		{"id":"1dfd101bf3d80078","fromNode":"29e458ce2dc192d3","fromSide":"right","toNode":"d95d5fbdde064165","toSide":"left"},
