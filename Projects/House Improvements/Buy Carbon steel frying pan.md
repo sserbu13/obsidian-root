@@ -11,3 +11,4 @@ Best options:
 
 Next best:
 Matfer Bourgeat - https://jdcateringequip.co.uk/products/hp739-matfer-bourgeat-round-restaurant-frying-pan-280mm?variant=42790521012364 
+De Buyer Mineral B element Pro - https://www.amazon.co.uk/Buyer-Mineral-Element-5680-20-Diam%C3%A8tre/dp/B00NSHWEC4/ref=sr_1_1?crid=J8GX3QA4M6B3&dib=eyJ2IjoiMSJ9.PfSWZnBloIpElc8BATrNM5RU9I2VQxaDs79GTqdOqGRheHFbXlHWL5gmXSWVmofWbhMWzozi1vYzl4E94yB8aWyMgyGXu5KYKdJnLFfwqvzJwK1qdpa1W0Uk0C5NBv87JQjaeB5nHrHT2qHBTfAlmCAUIqEryMAkjMywzEq_nUJKkXCfCnWe8rO39RLtZAPoSCkvJlyMtfXoYbdNpY7O7pW-GekA2cdm1VmS5umoe9zNkEJ1JTrNTUkqv807dbOoG3it9THS907Zlv1LsFJqa2RB16Wk2QiZBKzqVPTf40I.3pFPUc7gqlrcS1xnpMNbGmvuE-ogY8KFUImN1qHN4FI&dib_tag=se&keywords=de%2Bbuyer%2Bcarbon%2Bpro&qid=1762266805&s=kitchen&sprefix=de%2Bbuyer%2Bcarbon%2Bpro%2Ckitchen%2C158&sr=1-1&th=1
