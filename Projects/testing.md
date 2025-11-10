@@ -7,7 +7,7 @@
 ## BDD
 [Dealing with complex workflows #GivenWhenThenWithStyle](https://specflow.org/blog/dealing-with-complex-workflows-givenwhenthenwithstyle/)  
 
-## Contract Testing
+## Contract Testing 
 [API Contract Testing Made Easy](https://thethinkingtester.blogspot.com/2020/03/api-contract-testing-made-easy.html)  
 [Consumer Driven Contract Testing — A scalable testing strategy for Microservices](https://medium.com/john-lewis-software-engineering/consumer-driven-contract-testing-a-scalable-testing-strategy-for-microservices-3f2b09f99ed1)  
 
