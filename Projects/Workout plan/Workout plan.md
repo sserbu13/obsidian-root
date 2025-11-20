@@ -1,3 +1,3 @@
 ---
-sticker: lucide//dumbbell
+sticker: emoji//1f3cb-fe0f-200d-2642-fe0f
 ---
