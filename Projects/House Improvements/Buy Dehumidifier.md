@@ -2,6 +2,8 @@
 undefined: ""
 File: Projects/House Improvements/Buy Dehumidifier.md
 ---
+Brand: Meaco
+Capacity: 20L
 
 ```cardlink
 url: https://www.hotukdeals.com/deals/meaco-arete-two-25l-20l-ps25997-low-energy-laundry-smart-dehumidifier-with-stacked-codes-5-year-warranty-4733553
