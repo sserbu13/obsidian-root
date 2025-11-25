@@ -31,53 +31,29 @@
     - Review Resource management
     - Set / Reiterate goals
 
-### Daily
-
-- Focus 30% -
-- Social 30% -
-- Recovery 30% -
-- Admin 10% -
-    
-    
-
-### Weekly
-
-- Focus 30% - 2 days
-- Social 30% - 2 days
-- Recovery 30% - 2 days
-- Admin 10% - 1 day
-
-### Monthly
-
-- Focus 30% -
-    
-    
-- Social 30% -
-- Recovery 30% -
-- Admin 10% -
-
-### Yearly
+### Time Split
 
 - Focus 30% -
 - Social 30% -
 - Recovery 30% -
 - Admin 10% -
 
-[Action System](System/Action%20System%205da13952a3bf445197dcb5ef69e4da87.csv)
+
+[Action System]
 
 # MULTI DIMENSIONAL ATRIBUTES
 
-[Type](System/Type%20cc5a411702024bf1a44e51d25e1bd7af.csv)
+[Type]
 
-[Modules](System/Modules%2094ee4ee3e80b4849bdedde2649b72b67.csv)
+[Modules]
 
-[Flow](System/Flow%20e238aecfa7d341c1ae28b52b8a07793e.csv)
+[Flow]
 
-[Resource](System/Resource%20e3e1ecaaeb834b098d0c7b6c9105a6a1.csv)
+[Resource]
 
-[Aspects](System/Aspects%20e1770488afdd42319bcd29472a59430d.csv)
+[Aspects]
 
-[Priorities ](System/Priorities%20cd5bb4adeedf40719414fb806ebd55a7.csv)
+[Priorities ]
 
 <aside>
 💡 What do I need to work on → **Areas**
@@ -95,8 +71,7 @@
 </aside>
 
 <aside>
-💡 What I need to work with → R**esources**
+💡 What I need to work with → **Resources**
 
 </aside>
 
-[https://systems.com/embed/76i8yuijot4289th0fqqt43g3fb4312fadcxca6542gh46j7554wg9fj-3010yh](https://systems.com/embed/76i8yuijot4289th0fqqt43g3fb4312fadcxca6542gh46j7554wg9fj-3010yh)
