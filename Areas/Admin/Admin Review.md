@@ -7,7 +7,7 @@ In this session we will review Resource Management:
 
 
 We will **plan**:
-- Activities
+- Experiences
 - Cleaning
 - Buying 
 - Selling
@@ -22,4 +22,13 @@ Cashback
 - learn about cashback and 
 
 Budget
-- review spending habits 
+- review spending 
+
+
+
+## Meeting topics
+
+- Buying: 
+	- from our list of things to buy and based on budget, what can we afford to buy this week/month
+		- what is high priority and what can wait
+		- 
