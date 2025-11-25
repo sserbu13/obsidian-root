@@ -1,5 +1,5 @@
 ---
-sticker: lucide//paperclip
+sticker: lucide//bookmark
 ---
 
 |                                                                                                  |         |               |
