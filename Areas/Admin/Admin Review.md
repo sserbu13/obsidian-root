@@ -28,7 +28,8 @@ Budget
 
 ## Meeting topics
 
+- 
 - Buying: 
-	- from our list of things to buy and based on budget, what can we afford to buy this week/month
-		- what is high priority and what can wait
-		- 
+	- what can we afford to buy this week/month
+		- what is high priority and what can wait ?
+		- is it within our budget ?
