@@ -47,4 +47,5 @@
 | Little Nightmares         |          |              |
 | Firewatch                 |          |              |
 | Coccoon                   |          |              |
-|                           |          |              |
+| Subliminal                |          |              |
+| Stanley Parable           |          |              |
