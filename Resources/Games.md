@@ -40,3 +40,6 @@
 | Ghost of Yotei            |          |              |
 | Black Myth Wukong         |          |              |
 | Nine Souls                |          |              |
+| Ninja Gaiden Black        |          |              |
+| Silent Hill f             |          |              |
+| Hades 2                   |          |              |
