@@ -45,6 +45,6 @@
 | Hades 2                   |          |              |
 | Rain World                |          |              |
 | Little Nightmares         |          |              |
-|                           |          |              |
-|                           |          |              |
+| Firewatch                 |          |              |
+| Coccoon                   |          |              |
 |                           |          |              |
