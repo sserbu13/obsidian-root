@@ -44,7 +44,7 @@
 | Silent Hill f             |          |              |
 | Hades 2                   |          |              |
 | Rain World                |          |              |
-|                           |          |              |
+| Little Nightmares         |          |              |
 |                           |          |              |
 |                           |          |              |
 |                           |          |              |
