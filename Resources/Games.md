@@ -43,3 +43,8 @@
 | Ninja Gaiden Black        |          |              |
 | Silent Hill f             |          |              |
 | Hades 2                   |          |              |
+| Rain World                |          |              |
+|                           |          |              |
+|                           |          |              |
+|                           |          |              |
+|                           |          |              |
