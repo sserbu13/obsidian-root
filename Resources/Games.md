@@ -55,3 +55,5 @@
 | Kingdom Come Delivarence 2  |          |              |
 | Remnant 2                   |          |              |
 | Absolum                     |          |              |
+| Eriksholm                   |          |              |
+|                             |          |              |
