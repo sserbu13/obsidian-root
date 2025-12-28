@@ -60,3 +60,5 @@
 | Oblivion                    |          |              |
 | Hell is us                  |          |              |
 | The alters                  |          |              |
+| Uncharted 4                 |          |              |
+| Skyrim                      |          |              |
