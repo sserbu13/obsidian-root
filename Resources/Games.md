@@ -66,3 +66,10 @@
 | Grand Theft Auto 5          |          |              |
 | Death Stranding             |          |              |
 | Horizon Zero Dawn           |          |              |
+| Fallout 3                   |          |              |
+| Fallout New Vegas           |          |              |
+| Fallout 4                   |          |              |
+| Devil May Cry 5             |          |              |
+| Warhammer Space Marine 2    |          |              |
+| Batman 2                    |          |              |
+| Batman 3                    |          |              |
