@@ -73,3 +73,6 @@
 | Warhammer Space Marine 2    |          |              |
 | Batman 2                    |          |              |
 | Batman 3                    |          |              |
+| Dragon Age Inquisition      |          |              |
+| Divinity Original sins      |          |              |
+| Evil West                   |          |              |
