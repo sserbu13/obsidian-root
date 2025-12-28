@@ -62,3 +62,7 @@
 | The alters                  |          |              |
 | Uncharted 4                 |          |              |
 | Skyrim                      |          |              |
+| Final Fantasy Rebirth       |          |              |
+| Grand Theft Auto 5          |          |              |
+| Death Stranding             |          |              |
+| Horizon Zero Dawn           |          |              |
