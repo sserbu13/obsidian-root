@@ -58,3 +58,5 @@
 | Eriksholm                   |          |              |
 | Sleeping Dogs               |          |              |
 | Oblivion                    |          |              |
+| Hell is us                  |          |              |
+| The alters                  |          |              |
