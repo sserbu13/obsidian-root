@@ -1,17 +1,20 @@
 ---
 sticker: lucide//file-signature
 ---
+**Move**
 MMA - 1
-Footbal - 1
+Football - 1
 Stretching - 1
 Gym - 3 
 
+**Learn**
 Pytest -2
 
-
+**Play**
 Games - 3
 Movies - 3
+Drawing -3
 
-Playing Piano
-Drawing
-
+**Rest**
+Meditate - 3
+Visualize - 6
