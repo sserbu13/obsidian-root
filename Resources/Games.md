@@ -76,3 +76,6 @@
 | Dragon Age Inquisition      |          |              |
 | Divinity Original sins      |          |              |
 | Evil West                   |          |              |
+| Indika                      |          |              |
+| Death Stranding 2           |          |              |
+| Frostpunk 2                 |          |              |
