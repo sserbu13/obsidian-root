@@ -79,3 +79,5 @@
 | Indika                      |          |              |
 | Death Stranding 2           |          |              |
 | Frostpunk 2                 |          |              |
+| Dragon’s Dogma 2            |          |              |
+| Prince of Persia Lost Crown |          |              |
