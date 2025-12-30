@@ -11,6 +11,8 @@ Walk - 1
 **Learn**
 Pytest -2
 Drawing
+Piano
+Singing
 
 **Play**
 Games - 3
