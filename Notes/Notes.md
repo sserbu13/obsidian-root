@@ -15,12 +15,11 @@ Drawing
 **Play**
 Games - 3
 
-
 **Rest**
 Meditate - 3
 Visualize - 6
 
-Connect
+**Connect**
 Movies - 3
 Cook
 Date
