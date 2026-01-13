@@ -46,3 +46,6 @@
 
 ## TDD/ Unit Testing
 [Does TDD take more time, or less?](https://player.vimeo.com/video/264655634)  
+
+
+![[htsm.pdf]]
