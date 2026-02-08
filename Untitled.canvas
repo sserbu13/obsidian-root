@@ -1,19 +1,25 @@
 {
 	"nodes":[
-		{"id":"16b17a27f5e69591","type":"text","text":"Have kids\n","x":-578,"y":-131,"width":250,"height":60},
-		{"id":"83f3126ad071a946","x":-960,"y":-131,"width":250,"height":60,"type":"text","text":"Move to Austria"},
-		{"id":"7cf700859604f4db","x":-1280,"y":263,"width":160,"height":60,"type":"text","text":"Start Business"},
-		{"id":"0fcb1d9b715fe678","x":-920,"y":120,"width":250,"height":60,"type":"text","text":"Achieve £3.000/month income"},
-		{"id":"16666d176777731b","x":-920,"y":203,"width":250,"height":60,"type":"text","text":"Write QA Blog"},
-		{"id":"80ae66644e0a2eff","x":-920,"y":293,"width":250,"height":60,"type":"text","text":"Offer QA services\n"},
-		{"id":"72bc3fb738394d14","x":-920,"y":380,"width":250,"height":60,"type":"text","text":"Build QA tool"},
-		{"id":"4b281c8cbf1a8644","x":-1280,"y":620,"width":160,"height":60,"type":"text","text":"Become athletic"},
-		{"id":"ca3716d85956585f","x":-1009,"y":601,"width":233,"height":60,"type":"text","text":"Be flexi"},
-		{"id":"a3cb92467e840db7","x":-1009,"y":680,"width":174,"height":60,"type":"text","text":"Improve cardio"},
-		{"id":"6978df2667b4a637","x":-640,"y":650,"width":250,"height":60,"type":"text","text":"Play football"},
-		{"id":"63de57ce997933f4","x":-640,"y":740,"width":250,"height":60,"type":"text","text":"Do martial arts"},
-		{"id":"48cb633f79f2c6b5","x":-1009,"y":520,"width":130,"height":60,"type":"text","text":"Get strong"},
-		{"id":"cfad4201b91f3272","x":-842,"y":520,"width":132,"height":60,"type":"text","text":"Lift heavy"}
+		{"id":"6241f3a1b540dcf1","x":-1980,"y":340,"width":1198,"height":880,"type":"group","label":"Physical"},
+		{"id":"afdf7ad8282e3b32","x":-992,"y":-486,"width":250,"height":60,"type":"text","text":"Buy home\n"},
+		{"id":"2839535c5f8e89f2","x":-671,"y":-416,"width":250,"height":60,"type":"text","text":"Have kids"},
+		{"id":"80ae66644e0a2eff","x":-1600,"y":-77,"width":250,"height":60,"type":"text","text":"Offer QA services\n"},
+		{"id":"72bc3fb738394d14","x":-1600,"y":10,"width":250,"height":60,"type":"text","text":"Build QA tool"},
+		{"id":"7cf700859604f4db","x":-1880,"y":-107,"width":160,"height":60,"type":"text","text":"Start Business"},
+		{"id":"0fcb1d9b715fe678","x":-1600,"y":-250,"width":250,"height":60,"type":"text","text":"Achieve £3.000/month income"},
+		{"id":"16666d176777731b","x":-1600,"y":-167,"width":250,"height":60,"type":"text","text":"Write QA Blog"},
+		{"id":"9be3ceb63304f952","x":-600,"y":-230,"width":250,"height":60,"type":"text","text":"Move to Switzerland"},
+		{"id":"83f3126ad071a946","x":-600,"y":-141,"width":250,"height":60,"type":"text","text":"Move to Austria"},
+		{"id":"e4e30adf0718479d","x":-600,"y":-50,"width":250,"height":60,"type":"text","text":"Move to Spain"},
+		{"id":"16b17a27f5e69591","type":"text","text":"Settle down\n","x":-180,"y":-141,"width":140,"height":60},
+		{"id":"51a27acd19bcc411","x":-1780,"y":213,"width":250,"height":60,"type":"text","text":""},
+		{"id":"48cb633f79f2c6b5","x":-1705,"y":380,"width":130,"height":60,"type":"text","text":"Get strong"},
+		{"id":"ca3716d85956585f","x":-1705,"y":461,"width":130,"height":60,"type":"text","text":"Be flexible"},
+		{"id":"4b281c8cbf1a8644","x":-1976,"y":480,"width":160,"height":60,"type":"text","text":"Become athletic"},
+		{"id":"6978df2667b4a637","x":-1336,"y":510,"width":250,"height":60,"type":"text","text":"Play football"},
+		{"id":"a3cb92467e840db7","x":-1705,"y":540,"width":174,"height":60,"type":"text","text":"Improve cardio"},
+		{"id":"63de57ce997933f4","x":-1336,"y":600,"width":250,"height":60,"type":"text","text":"Do martial arts"},
+		{"id":"cfad4201b91f3272","x":-1538,"y":380,"width":132,"height":60,"type":"text","text":"Lift heavy"}
 	],
 	"edges":[
 		{"id":"ba0c4836bf1f12ea","fromNode":"83f3126ad071a946","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"},
@@ -26,6 +32,12 @@
 		{"id":"795e9788a6ba45ac","fromNode":"4b281c8cbf1a8644","fromSide":"right","toNode":"ca3716d85956585f","toSide":"left"},
 		{"id":"5c618c29a3c30196","fromNode":"4b281c8cbf1a8644","fromSide":"right","toNode":"a3cb92467e840db7","toSide":"left"},
 		{"id":"8c033d7d3bbb5d4e","fromNode":"4b281c8cbf1a8644","fromSide":"right","toNode":"48cb633f79f2c6b5","toSide":"left"},
-		{"id":"0866a9e6586b090b","fromNode":"48cb633f79f2c6b5","fromSide":"right","toNode":"cfad4201b91f3272","toSide":"left"}
+		{"id":"0866a9e6586b090b","fromNode":"48cb633f79f2c6b5","fromSide":"right","toNode":"cfad4201b91f3272","toSide":"left"},
+		{"id":"83f67eb33915bd76","fromNode":"e4e30adf0718479d","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"},
+		{"id":"7b8e6e28c8f99577","fromNode":"83f3126ad071a946","fromSide":"bottom","toNode":"e4e30adf0718479d","toSide":"top"},
+		{"id":"084449d10dba5745","fromNode":"e4e30adf0718479d","fromSide":"top","toNode":"83f3126ad071a946","toSide":"bottom"},
+		{"id":"29aa90a679d8b7d3","fromNode":"9be3ceb63304f952","fromSide":"bottom","toNode":"83f3126ad071a946","toSide":"top"},
+		{"id":"824fbee21f56862d","fromNode":"83f3126ad071a946","fromSide":"top","toNode":"9be3ceb63304f952","toSide":"bottom"},
+		{"id":"4cfff4334c40e7d7","fromNode":"9be3ceb63304f952","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"}
 	]
 }
