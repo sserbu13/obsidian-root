@@ -4,7 +4,6 @@
 		{"id":"301de4cef98f2d2b","type":"group","x":-1900,"y":-360,"width":1218,"height":620,"label":"Business"},
 		{"id":"5fb134c51d667458","type":"group","x":-600,"y":-360,"width":1218,"height":620,"label":"Life"},
 		{"id":"f16f243ec62cd633","type":"group","x":-600,"y":320,"width":1218,"height":620,"label":"Mental"},
-		{"id":"6b2be0b75140c89c","x":-552,"y":556,"width":250,"height":60,"type":"text","text":""},
 		{"id":"80ae66644e0a2eff","type":"text","text":"Offer QA services\n","x":-1600,"y":-77,"width":250,"height":60},
 		{"id":"72bc3fb738394d14","type":"text","text":"Build QA tool","x":-1600,"y":10,"width":250,"height":60},
 		{"id":"7cf700859604f4db","type":"text","text":"Start Business","x":-1880,"y":-107,"width":160,"height":60},
@@ -25,7 +24,8 @@
 		{"id":"2839535c5f8e89f2","type":"text","text":"Have kids","x":-180,"y":141,"width":250,"height":60},
 		{"id":"f618c7b9ebe6973f","type":"text","text":"Conquer Puer","x":-513,"y":446,"width":250,"height":60},
 		{"id":"ee82ccae59bd1749","type":"text","text":"Self determination theory","x":320,"y":441,"width":250,"height":60},
-		{"id":"78fed03996a15163","type":"text","text":"Practice Meditation","x":-100,"y":446,"width":250,"height":60}
+		{"id":"78fed03996a15163","type":"text","text":"Practice Meditation","x":-100,"y":446,"width":250,"height":60},
+		{"id":"6b2be0b75140c89c","x":-513,"y":610,"width":157,"height":60,"type":"text","text":"Read more "}
 	],
 	"edges":[
 		{"id":"ba0c4836bf1f12ea","fromNode":"83f3126ad071a946","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"},
