@@ -25,7 +25,9 @@
 		{"id":"f618c7b9ebe6973f","type":"text","text":"Conquer Puer","x":-513,"y":446,"width":250,"height":60},
 		{"id":"ee82ccae59bd1749","type":"text","text":"Self determination theory","x":320,"y":441,"width":250,"height":60},
 		{"id":"78fed03996a15163","type":"text","text":"Practice Meditation","x":-100,"y":446,"width":250,"height":60},
-		{"id":"6b2be0b75140c89c","x":-513,"y":610,"width":157,"height":60,"type":"text","text":"Read more "}
+		{"id":"6b2be0b75140c89c","type":"text","text":"Read more ","x":-513,"y":610,"width":157,"height":60},
+		{"id":"f4eeb8313e0cd72a","x":-1006,"y":-146,"width":166,"height":60,"type":"text","text":"How to Guides\n"},
+		{"id":"5d219c6b00cba3d1","x":-1006,"y":-250,"width":167,"height":60,"type":"text","text":"Sell digital media"}
 	],
 	"edges":[
 		{"id":"ba0c4836bf1f12ea","fromNode":"83f3126ad071a946","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"},
@@ -45,6 +47,7 @@
 		{"id":"29aa90a679d8b7d3","fromNode":"9be3ceb63304f952","fromSide":"bottom","toNode":"83f3126ad071a946","toSide":"top"},
 		{"id":"824fbee21f56862d","fromNode":"83f3126ad071a946","fromSide":"top","toNode":"9be3ceb63304f952","toSide":"bottom"},
 		{"id":"4cfff4334c40e7d7","fromNode":"9be3ceb63304f952","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"},
-		{"id":"f61aa9d092045983","fromNode":"afdf7ad8282e3b32","fromSide":"right","toNode":"2839535c5f8e89f2","toSide":"left"}
+		{"id":"f61aa9d092045983","fromNode":"afdf7ad8282e3b32","fromSide":"right","toNode":"2839535c5f8e89f2","toSide":"left"},
+		{"id":"62bdc5e89face6bc","fromNode":"5d219c6b00cba3d1","fromSide":"bottom","toNode":"f4eeb8313e0cd72a","toSide":"top"}
 	]
 }
