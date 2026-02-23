@@ -18,10 +18,6 @@
 		{"id":"cfad4201b91f3272","type":"text","text":"Lift heavy","x":-1458,"y":360,"width":132,"height":60},
 		{"id":"a3cb92467e840db7","type":"text","text":"Improve cardio","x":-1625,"y":520,"width":174,"height":60},
 		{"id":"63de57ce997933f4","type":"text","text":"Do martial arts","x":-1256,"y":580,"width":250,"height":60},
-		{"id":"9be3ceb63304f952","type":"text","text":"Move to Switzerland","x":-520,"y":-280,"width":250,"height":60},
-		{"id":"83f3126ad071a946","type":"text","text":"Move to Austria","x":-520,"y":-191,"width":250,"height":60},
-		{"id":"16b17a27f5e69591","type":"text","text":"Settle down\n","x":-100,"y":-191,"width":140,"height":60},
-		{"id":"e4e30adf0718479d","type":"text","text":"Move to Spain","x":-520,"y":-100,"width":250,"height":60},
 		{"id":"afdf7ad8282e3b32","type":"text","text":"Buy home\n","x":-520,"y":141,"width":250,"height":60},
 		{"id":"2839535c5f8e89f2","type":"text","text":"Have kids","x":-180,"y":141,"width":250,"height":60},
 		{"id":"f618c7b9ebe6973f","type":"text","text":"Conquer Puer","x":-513,"y":446,"width":250,"height":60},
@@ -29,7 +25,10 @@
 		{"id":"78fed03996a15163","type":"text","text":"Practice Meditation","x":-100,"y":446,"width":250,"height":60},
 		{"id":"6b2be0b75140c89c","type":"text","text":"Read more ","x":-513,"y":610,"width":157,"height":60},
 		{"id":"14de9c1e566ef1d6","type":"text","text":"Flip furniture","x":-922,"y":91,"width":155,"height":50},
-		{"id":"6441a5c40890ca9a","x":-911,"y":171,"width":144,"height":50,"type":"text","text":"Sell clothes"}
+		{"id":"6441a5c40890ca9a","x":-911,"y":171,"width":144,"height":50,"type":"text","text":"Sell clothes"},
+		{"id":"83f3126ad071a946","type":"text","text":"Move to Austria","x":-520,"y":-280,"width":250,"height":60},
+		{"id":"e4e30adf0718479d","type":"text","text":"Move to Spain","x":-520,"y":-176,"width":250,"height":60},
+		{"id":"16b17a27f5e69591","type":"text","text":"Settle down\n","x":-195,"y":-220,"width":140,"height":60}
 	],
 	"edges":[
 		{"id":"ba0c4836bf1f12ea","fromNode":"83f3126ad071a946","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"},
@@ -46,9 +45,6 @@
 		{"id":"83f67eb33915bd76","fromNode":"e4e30adf0718479d","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"},
 		{"id":"7b8e6e28c8f99577","fromNode":"83f3126ad071a946","fromSide":"bottom","toNode":"e4e30adf0718479d","toSide":"top"},
 		{"id":"084449d10dba5745","fromNode":"e4e30adf0718479d","fromSide":"top","toNode":"83f3126ad071a946","toSide":"bottom"},
-		{"id":"29aa90a679d8b7d3","fromNode":"9be3ceb63304f952","fromSide":"bottom","toNode":"83f3126ad071a946","toSide":"top"},
-		{"id":"824fbee21f56862d","fromNode":"83f3126ad071a946","fromSide":"top","toNode":"9be3ceb63304f952","toSide":"bottom"},
-		{"id":"4cfff4334c40e7d7","fromNode":"9be3ceb63304f952","fromSide":"right","toNode":"16b17a27f5e69591","toSide":"left"},
 		{"id":"f61aa9d092045983","fromNode":"afdf7ad8282e3b32","fromSide":"right","toNode":"2839535c5f8e89f2","toSide":"left"},
 		{"id":"62bdc5e89face6bc","fromNode":"5d219c6b00cba3d1","fromSide":"bottom","toNode":"f4eeb8313e0cd72a","toSide":"top"}
 	]
