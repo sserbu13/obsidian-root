@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f6d2
+---
 shop gator
 
 one shop search to look across multiple sites

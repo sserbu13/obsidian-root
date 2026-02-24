@@ -36,3 +36,4 @@ url: https://www.reddit.com/r/learnpython/wiki/index/#wiki_tools_for_learning_py
 title: "Reddit - The heart of the internet"
 host: www.reddit.com
 ```
+https://github.com/gto76/python-cheatsheet

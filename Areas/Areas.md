@@ -1,3 +1,3 @@
 ---
-sticker: lucide//map
+sticker: lucide//crown
 ---
