@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f852823cb418b1bf","x":-525,"y":-136,"width":250,"height":60,"type":"text","text":"Baldur's Gate 3"},
+		{"id":"0760bdfae600d2e7","x":43,"y":128,"width":250,"height":60,"type":"text","text":"Sopranos"},
+		{"id":"a997cc659f57ef17","x":340,"y":128,"width":250,"height":60,"type":"text","text":"Game of Thrones"},
+		{"id":"1978817b62b840ff","x":43,"y":240,"width":250,"height":60,"type":"text","text":"Better call Saul"},
+		{"id":"a85ef50adf73c6ca","x":-565,"y":-33,"width":250,"height":60,"type":"text","text":"Witcher 3"}
+	],
+	"edges":[]
+}
