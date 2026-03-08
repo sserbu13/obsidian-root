@@ -1,5 +1,7 @@
 
-Send reels to AI - need to transcript and save content from reels and create content to repackage like courses and ebook or simply save for later 
+Send reels to AI assistant - need to transcript and save content from reels and create content to repackage like courses and ebook or simply save for later 
+
+Notifications for screen time detection - too much social media ? send annoying notifications. too much screen time ? send notification reminder to take a break. 
 
 Product finder for Vinted - insert brands and prices and find bargains. Check for items with a lot of likes, check for low prices, bad descriptions and lighting 
 
