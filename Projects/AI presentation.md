@@ -2,4 +2,5 @@
 	- In our workflows we have all adopted this idea of "agile". Which at its core emphasizes the idea of iterating fast, failing quickly and improving on the go. I fear this will soon change, in what direction I'm not sure, however I know that when agile became popular, it did so in a different context than the one we are in right now.
 		- the question was "given our skills, experience and output remains unchanged, what is our most optimal way of delivering a working product". 
 		- Speed was the answer then however speed will no longer be the limiting factor as we move forward and these tools become smarter. 
-		- Agile allowed us to move faster because we agreed that the benefit of delivering changes smaller and faster outweighs the cost of errors when things do eventually break. But we accepted those errors because our incremental chan 
+		- Agile allowed us to move faster because we agreed that the benefit of delivering changes smaller and faster outweighs the cost of errors when things do eventually break. But we accepted those errors because our incremental changes would be small and easy to manage. With AI, our output will be far greater than what we've been used to before.
+		- We all become reviewers and testers
