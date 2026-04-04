@@ -1,2 +1,5 @@
 - I'm here to present what I have done with the help of AI but I do feel responsible to at least mention a couple of worries I have
-	- In our workflows we have all adopted this idea of "agile". Which at its core emphasizes the idea of iterating fast, failing quickly and improving on the go. I fear this will soon change, in what direction I'm not sure, however I know that when agile became the preferred 
+	- In our workflows we have all adopted this idea of "agile". Which at its core emphasizes the idea of iterating fast, failing quickly and improving on the go. I fear this will soon change, in what direction I'm not sure, however I know that when agile became popular, it did so in a different context than the one we are in right now.
+		- the question was "given our skills, experience and output remains unchanged, what is our most optimal way of delivering a working product". 
+		- Speed was the answer then however speed will no longer be the limiting factor as we move forward and these tools become smarter. 
+		- We coul
