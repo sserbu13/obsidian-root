@@ -1,0 +1,2 @@
+- I'm here to present what I have done with the help of AI but I do feel responsible to at least mention a couple of worries I have
+	- In our workflows we have all adopted this idea of "agile". Which at its core emphasizes the idea of iterating fast, failing quickly and improving on the go. I fear this will soon change, in what direction I'm not sure, however I know that when agile became the preferred 
