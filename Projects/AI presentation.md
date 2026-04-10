@@ -4,5 +4,6 @@
 		- Speed was the answer then however speed will no longer be the limiting factor as we move forward and these tools become smarter. 
 		- Agile allowed us to move faster because we agreed that the benefit of delivering changes smaller and faster outweighs the cost of errors when things do eventually break. But we accepted those errors because our incremental changes would be small and easy to manage. With AI, our output will be far greater than what we've been used to before.
 		- We all become reviewers and testers
-- Conclusions /predictions / some p
-	- Costs will rise quickly for the use of AI. These major AI companies operate at a loss right now We should absolutely take the opportunity to learn how to use it now. This way we will have learned how to use it efficiently and we'll be prepared 
+- Conclusions /predictions / some perspective
+	- Costs will rise quickly for the use of AI. These major AI companies operate at a huge loss right now as they are focusing on capturing a share of the market. Subscriptions are still "affordable" for now but as companies become dependent on these models, prices will rise.
+	- We should absolutely take this as an opportunity to learn how to use it now. This way we will have learned how to use it efficiently and we'll be prepared 
