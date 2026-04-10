@@ -7,3 +7,4 @@
 - Conclusions /predictions / some perspective
 	- Costs will rise quickly for the use of AI. Reality is these major AI companies operate at a huge loss right now as they are focusing on capturing a share of the market. Subscriptions are still "affordable" because they want companies to use them but prices will have to rise for them to turn a profit.
 	- We should absolutely take this as an opportunity to learn how to use it now. This way we will have learned how to use it efficiently and we'll be prepared 
+	- Output bottleneck
