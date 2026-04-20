@@ -1,5 +1,0 @@
-- Write email to get quote for car repairs
-	- Respond back to Stanmore with quote 
-- Call/Write to Cheffins to report issues
-	- Oven fan
-- Call/Write Virgin media for internet issues
