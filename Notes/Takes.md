@@ -1,2 +1,5 @@
 - If AI enhances skillsets for people, what stops people from being more of a flight risks with companies ? Why would people stay when they can develop skills so much easier ?
-- 
+- If AI costs increase to the point where the cost of an AI agent competes with the cost of employees :
+	- it's US employees who are paid much more than the rest of the world who have to compete the most
+	- does that mean that AI operators will be preferred over actual engineers
+	- 
