@@ -1,1 +1,2 @@
+- If AI enhances skillsets for people, what stops people from being more of a flight risks with companies ? Why would people stay when they can develop skills so much easier ?
 - 
